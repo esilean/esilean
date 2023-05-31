@@ -1,4 +1,16 @@
-### ⚡ .Net Developer / Reactjs
+### ⚡ Hi, I`m Leandro. 😄
+
+# Backend
+
+### .Net C# +12y
+### Nodejs
+### Python
+
+# Frontend
+
+### Reactjs +3y
+### Angular +1y
+
 
 <!--
 **esilean/esilean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
